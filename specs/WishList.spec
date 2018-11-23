@@ -9,7 +9,7 @@ Adding Product to Wish List
 ---------------------------
 tags:addingProductToWishList
 
-* Login with "ergunnahide94@gmail.com" and "asdfgh" informations.
+* Login with "username" and "password" informations.
 * If wish list is not empty, remove all products.
 * Search for "samsung" text and check the search result accuracy
 * Go to "2"'nd page then verify the url contains "pg_2?".
